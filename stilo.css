@@ -1,0 +1,84 @@
+body {
+
+    background-color: gray;
+}
+
+.container {
+
+    background-color: white;
+}
+
+.container-fluid {
+    
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+h5 {
+
+    text-align: center;
+}
+
+h6 {
+
+    text-align: center;
+}
+
+#logodaloja {
+
+    width: 100%;
+}
+
+
+#imagemdologo {
+
+    margin-bottom: 30px;
+}
+
+#tituloDestaque {
+    
+    margin-bottom: 30px;
+}
+
+
+
+.card {
+
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#tamanho {
+
+    width: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+#receba {
+
+    margin-top: 30px;
+    
+}
+
+#textoemail {
+
+    margin-left: 10 px;
+}
+
+
+
+#rodape {
+
+    background-color: darkgrey;
+    color: white;
+}
+
+#recebaa {
+
+    color: white;
+}
